@@ -1,0 +1,20 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "prettier.arrowParens": "always", // 화살표 함수 괄호 사용 방식
+  "prettier.bracketSpacing": true, // 객체 리터럴에서 괄호에 공백 삽입 여부
+  "prettier.endOfLine": "auto", // EoF 방식, OS별로 처리 방식이 다름
+  "prettier.htmlWhitespaceSensitivity": "css", // HTML 공백 감도 설정
+  "prettier.jsxBracketSameLine": false, // JSX의 마지막 `>`를 다음 줄로 내릴지 여부
+  "prettier.jsxSingleQuote": false, // JSX에 singe 쿼테이션 사용 여부
+  "prettier.printWidth": 80, //  줄 바꿈 할 폭 길이
+  "prettier.proseWrap": "preserve", // markdown 텍스트의 줄바꿈 방식 (v1.8.2)
+  "prettier.quoteProps": "as-needed", // 객체 속성에 쿼테이션 적용 방식
+  "prettier.semi": true, // 세미콜론 사용 여부
+  "prettier.singleQuote": true, // single 쿼테이션 사용 여부
+  "prettier.tabWidth": 2, // 탭 너비
+  "prettier.trailingComma": "all", // 여러 줄을 사용할 때, 후행 콤마 사용 방식
+  "prettier.useTabs": false, // 탭 사용 여부
+  "prettier.vueIndentScriptAndStyle": true // Vue 파일의 script와 style 태그의 들여쓰기
+}
